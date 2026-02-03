@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil (Estevan-Bravim-Figueireido)
+## Bem-vindo ao meu perfil 
  <div>
    <a href="https://github.com/Estevan-Bravim-Figueireido">
    
